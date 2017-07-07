@@ -1,1 +1,4 @@
-<p>Here is our first branch.... Now we are adding a second branch.</p>
+<p>Here is our first branch.... Now we are adding a second branch.
+   <div> Testing the merge</div>
+</p>
+
